@@ -117,7 +117,7 @@ public class MainDashboard {
             };
 
             footerPanel.setLayout(new BorderLayout());
-            JLabel footer = new JLabel("Developed by Oshan aditha", SwingConstants.CENTER);
+            JLabel footer = new JLabel("Developed by Aditha Wickramasingha", SwingConstants.CENTER);
             footer.setFont(new Font("Segoe UI", Font.PLAIN, 12));
             footer.setForeground(new Color(200, 200, 200));
             footer.setBorder(BorderFactory.createEmptyBorder(10, 0, 10, 0));
